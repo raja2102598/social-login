@@ -2,26 +2,22 @@
 
 Open Id Authentication application created using ReactJS.
 
----
 
 ## Live Site URL
 
 <https://socialmedialogin.netlify.app>
 
----
 ## Components
 
 - Home Component
 - Login Component
 - Login Button
----
 ## Screenshots
 
 ### Login Component
 ![Home Component](https://firebasestorage.googleapis.com/v0/b/social-login-ty.appspot.com/o/Screenshot%20(468).png?alt=media&token=88f95591-9c26-4142-9fd6-e5553240fea3)
 ![Home Component](https://firebasestorage.googleapis.com/v0/b/social-login-ty.appspot.com/o/Screenshot%20(469).png?alt=media&token=ec8e08c5-2fb0-479c-937f-30ded8b5ee0b)
 
----
 ### Home Component
 
 #### After Logging in
@@ -29,7 +25,6 @@ Open Id Authentication application created using ReactJS.
 #### After Logout
 ![Add Student](https://firebasestorage.googleapis.com/v0/b/social-login-ty.appspot.com/o/Screenshot%20(471).png?alt=media&token=3e686fec-fbb8-4334-893d-7f48ec3f8bbc)
 
----
 ## Available Scripts
 
 In the project directory, you can run:
