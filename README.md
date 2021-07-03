@@ -1,6 +1,27 @@
-# Getting Started with Create React App
+# Open Id Authentication Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Open Id Authentication application created using ReactJS.
+
+
+## Components
+
+- Home Component
+- Login Component
+- Login Button
+
+## Screenshots
+
+### Login Component
+![Home Component](https://firebasestorage.googleapis.com/v0/b/social-login-ty.appspot.com/o/Screenshot%20(468).png?alt=media&token=88f95591-9c26-4142-9fd6-e5553240fea3)
+![Home Component](https://firebasestorage.googleapis.com/v0/b/social-login-ty.appspot.com/o/Screenshot%20(469).png?alt=media&token=ec8e08c5-2fb0-479c-937f-30ded8b5ee0b)
+
+### Home Component
+
+#### After Logging in
+![Add Student](https://firebasestorage.googleapis.com/v0/b/social-login-ty.appspot.com/o/Screenshot%20(470).png?alt=media&token=caee56ca-4119-437e-be32-434e15fc9a37)
+#### After Logout
+![Add Student](https://firebasestorage.googleapis.com/v0/b/social-login-ty.appspot.com/o/Screenshot%20(471).png?alt=media&token=3e686fec-fbb8-4334-893d-7f48ec3f8bbc)
+
 
 ## Available Scripts
 
@@ -39,32 +60,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
